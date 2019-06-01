@@ -1,2 +1,15 @@
-# MITE1.13.2Pub
-The public things in project MITE1.13.2
+[中文版](https://github.com/X1AOYu233/MITE1.13.2Pub/blob/master/README_CN.md)
+# **_Note that this version is also in the beta, so it will not release the modpack,game file or any source code_**
+# MITE1.13.2
+**_It’s impossible for a person to just make a few carrots and make a night vision potion.
+Go to the underground world and dig diamonds then get rich overnight._**
+## Features
+* Make it harder to collect resources
+* Mobs are more aggressive
+* Poor endurance
+* Add a variety of monsters, food, tools, armor
+ 
+ # About
+This version of Minecraft is based on the source code of vanilla 1.13.2 provided by 
+MinecraftForge and its srg file for deobfuscation, so it inherits the LGPL2.1 license from MinecraftForge.
+ 
