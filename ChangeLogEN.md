@@ -1,5 +1,7 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
 # B0.6.0 ChangeLog
+## Mobs
+* Killing animals can't gain experience
 ## Game mechanics
 * Shorten the block placement distance\
   _(When empty-handed with blocks: 2.75 blocks, empty-handed with entities: 1.5 blocks)_
@@ -10,8 +12,6 @@
 ## Anti-cheating
 * Lock difficult to hard 
 * Brightness setting locks to dark
-## Mobs
-* Killing animals can't gain experience
 ---
 # B0.5.8 ChangeLog
 _**(Due to copyright problems with this mod, I have to stop a version to make these changes.)**_
