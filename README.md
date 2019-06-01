@@ -1,4 +1,4 @@
-[中文版](https://github.com/X1AOYu233/MITE1.13.2Pub/blob/master/README_CN.md)
+[中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/README_CN.md)
 # **_Note that this version is also in the beta, so it will not release the modpack,game file or any source code_**
 # MITE1.13.2
 **_It’s impossible for a person to just make a few carrots and make a night vision potion.
