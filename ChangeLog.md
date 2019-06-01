@@ -2,7 +2,7 @@
 # B0.5.8 ChangeLog
 _**(Due to copyright problems with this mod, I have to stop a version to make these changes.)**_
 ## Technical
-* Pack MITE into .exe file,to make it unable to be decompiled
+* Encrypt MITE with native library,to make it unable to be decompiled
 ## GUI
 * Add the ID of the author of this mod to the main GUI and credits list
 * Add a button to open the Github repository to the main GUI
