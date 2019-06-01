@@ -1,15 +1,27 @@
-[English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLog.md)
+[English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.6.0 更新日志
+## 生物
+## 游戏机制
+* 方块放置距离减短(空手时对方块:2.75格,空手时对实体:1.5格)
+* 饥饿掉血速度减慢
+* 放置方块加速饥饿
+* 方块放置速度降低5tick
+* 攻击加速饥饿
+## 反作弊
+* 难度锁定困难
+* 亮度锁定昏暗
+---
 # B0.5.8 更新日志
 _**(因为本模组的版权问题,不得不停下一个版本来进行这些更改)**_
 ## 技术性
-* 将MITE使用Native加密,使其无法被反编译
+* 将MITE使用Native库加密,使其无法被反编译
 ## GUI
 * 向主界面和制作者清单中添加了本模组作者的ID
 * 向主界面添加了打开Github仓库的按钮
 ## 世界生成
 * 改变了地底世界的地牢的生成高度,最低为140层
 ## Bug修复
-* 修复了 [#34](https://github.com/XiaoYuOvO/MITE1.13.2Pub/issues/34) 
+* 修复了 [#34](https://github.com/XiaoYuOvO/MITE1.13.2/issues/34) 
 ---
 # B0.5.7 更新日志
 ## 世界生成

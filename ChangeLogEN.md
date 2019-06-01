@@ -1,4 +1,18 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.0 ChangeLog
+## Game mechanics
+* Shorten the block placement distance\
+  _(When empty-handed with blocks: 2.75 blocks, empty-handed with entities: 1.5 blocks)_
+* Reduce the rate of hungry damage speed
+* Block placement speed is reduced by 5tick
+* Attack accelerates hunger
+* Placing block accelerates hunger
+## Anti-cheating
+* Lock difficult to hard 
+* Brightness setting locks to dark
+## Mobs
+* Killing animals can't gain experience
+---
 # B0.5.8 ChangeLog
 _**(Due to copyright problems with this mod, I have to stop a version to make these changes.)**_
 ## Technical
