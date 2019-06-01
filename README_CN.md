@@ -1,4 +1,4 @@
-[English Version](https://github.com/X1AOYu233/MITE1.13.2/blob/master/README.md)
+[English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/README.md)
 # **_注意,此版本还在内测中所以不会放出任何游戏本体文件和源代码_**
 # MITE1.13.2
 **_一个人不可能只是搞了几个胡萝卜然后制成夜视药水，去到地底世界挖钻石就一夜暴富_**
