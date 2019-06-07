@@ -1,4 +1,14 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.1 ChangeLog
+## Mobs 
+* Squids can break boats and make players drowned
+* Zombie will attack animals
+* Spider can throw web to players to make the players become slowly
+* Zombie can dig some soft blocks to get close to players
+# Bug Fix
+* Fix sword hasn't reach bounce
+* Fix hard to put block under player
+---
 # B0.6.0 ChangeLog
 ## Mobs
 * Killing animals can't gain experience
