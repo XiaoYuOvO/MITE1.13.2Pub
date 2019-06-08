@@ -1,11 +1,26 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.2 ChangeLog
+## Mobs
+* Increase mobs' follow range
+* Zombie and Skeleton will have wooden club or wooden shovel when spawn
+* Make cow can produce only one bucket of milk once a day
+* Make arrow can cross leaves and hurt entities
+* Make animals will run away when others or itself hurt by entity
+## Bug Fix
+* Fix that crash when projectile hit entities
+* Fix that player has 20 food levels when world generated
+## Generating
+* Decrease the counts of copper ore and silver ore per chunk
+## Items
+* Change wooden sword to wooden club
+---
 # B0.6.1 ChangeLog
 ## Mobs 
 * Squids can break boats and make players drowned
 * Zombie will attack animals
 * Spider can throw web to players to make the players become slowly
 * Zombie can dig some soft blocks to get close to players
-# Bug Fix
+## Bug Fix
 * Fix sword hasn't reach bounce
 * Fix hard to put block under player
 ---
