@@ -1,4 +1,10 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.6.3 更新日志
+## 生物
+* 增加了食尸鬼,土元素,相位蜘蛛以及尸妖
+* 增加了怪物被打时寻求其他队友帮助的范围
+* 增加骷髅弓箭的判定体积,使其更容易命中
+---
 # B0.6.2 更新日志
 ## 生物
 * 增加怪物的跟踪距离

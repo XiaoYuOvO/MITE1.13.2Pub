@@ -1,4 +1,10 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.3 ChangeLog
+## Mobs
+* Add Ghoul, Earth Element, Phase Spider, and Wight
+* Increase range of help for others for mobs
+* Increase the hitbox of arrows shot by skeleton to make it easier to hit
+---
 # B0.6.2 ChangeLog
 ## Mobs
 * Increase mobs' follow range
