@@ -1,4 +1,13 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.4 ChangeLog
+## Mobs
+* Add Revenant and Longdead
+* Add Vampire Bat,Giant Vampire Bat and Nightwing
+## Items
+* Add Rusted Iron tools
+## Bug Fix
+* Fix that lag when player with a lot of exps died 
+---
 # B0.6.3 ChangeLog
 ## Mobs
 * Add Ghoul, Earth Element, Phase Spider, and Wight

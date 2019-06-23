@@ -1,4 +1,13 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.6.4 更新日志
+## 生物
+* 增加了亡魂和古尸
+* 增加了吸血蝙蝠,吸血巨蝠和夜翼
+## 物品
+* 增加了锈铁工具和武器
+## Bug修复
+* 修复了玩家等级过高时死亡使游戏卡顿的Bug
+---
 # B0.6.3 更新日志
 ## 生物
 * 增加了食尸鬼,土元素,相位蜘蛛以及尸妖
