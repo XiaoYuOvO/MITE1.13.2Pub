@@ -1,4 +1,15 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.5 ChangeLog
+## Rendering
+* Add lighting eyes for many mobs(longdead,vampire bat,nightwing,phase spider and revenant)
+## Mobs
+* Add hellhound, fire elemental and infernal creeper
+* Make Zombie Pigman attack players when they meet
+## Blocks
+* Logs broken by explosion now only drop sticks
+##Bug Fix
+* Fix guardian longdeads' weapons for their first spawn and their attacking animation
+---
 # B0.6.4 ChangeLog
 ## Mobs
 * Add Revenant and Longdead
