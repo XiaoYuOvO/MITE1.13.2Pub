@@ -7,7 +7,7 @@
 * Make Zombie Pigman attack players when they meet
 ## Blocks
 * Logs broken by explosion now only drop sticks
-##Bug Fix
+## Bug Fix
 * Fix guardian longdeads' weapons for their first spawn and their attacking animation
 ---
 # B0.6.4 ChangeLog
