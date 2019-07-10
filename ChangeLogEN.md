@@ -1,4 +1,16 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.6 ChangeLog
+## Mobs
+* Added a variety of slime
+* Let slime can corrode blocks and equipment
+## Game mechanism
+* Changed the calculation of the hardness of blocks
+## Items
+* Added a variety of slime balls
+* Let the slime ball can be thrown out
+## Bug Fix
+* Fix attacking turtles causes crash
+---
 # B0.6.5 ChangeLog
 ## Rendering
 * Add lighting eyes for many mobs(longdead,vampire bat,nightwing,phase spider and revenant)
