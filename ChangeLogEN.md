@@ -1,4 +1,16 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.7 ChangeLog
+## Items
+* Add ancient metal armors and rusted iron armors
+## Effects
+* Make slowness effect can slow down camera move speed 
+## Mobs
+* Add bone lord,ancient bone lord and netherspawn silverfish,copper spine silverfish,hoary silverfish and invisible stalker
+* Change skeletons' max health
+* Now squids will give players slowness debuff
+* Add armors for revenant and longdead
+* Mobs attack range will be affect by holding items
+---
 # B0.6.6 ChangeLog
 ## Mobs
 * Added a variety of slime
@@ -53,6 +65,8 @@
 * Change wooden sword to wooden club
 ---
 # B0.6.1 ChangeLog
+## Effects
+* Add Drowned Effect,it can make players can't swim and be drowned
 ## Mobs 
 * Squids can break boats and make players drowned
 * Zombie will attack animals
