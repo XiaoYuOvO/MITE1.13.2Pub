@@ -1,4 +1,13 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.8 ChangeLog
+## Mobs
+* Add Black widow spider,demon spider,wood spider,shadow and dire wolf
+* Slow down the running speed of panic animals
+* Increase phase spider's attack dodging chance
+## Bug Fix
+* Fix various slime names so that they correctly display the current variant
+* Fix a bug where the throwing Slim ball did not match the item.
+---
 # B0.6.7 ChangeLog
 ## Items
 * Add ancient metal armors and rusted iron armors
