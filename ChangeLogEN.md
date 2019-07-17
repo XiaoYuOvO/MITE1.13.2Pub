@@ -1,4 +1,13 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.9 ChangeLog
+## Effects
+* Added _**suffocation**_ effect, which will cause the player to continuously decrease the air value. \
+  The higher the level, the faster the air value drops.
+## Mobs
+* Drowned is faster in water or rainy day,but it is slow in daylight,and it will give player suffocation effect
+* Vindicator can disarm players when it attacks(10 sec cooldown)
+* Added Vindicator guardian(run faster and causes more damage)
+---
 # B0.6.8 ChangeLog
 ## Mobs
 * Add Black widow spider,demon spider,wood spider,shadow and dire wolf
@@ -12,7 +21,7 @@
 ## Items
 * Add ancient metal armors and rusted iron armors
 ## Effects
-* Make slowness effect can slow down camera move speed 
+* Make **_slowness_** effect can slow down camera move speed 
 ## Mobs
 * Add bone lord,ancient bone lord and netherspawn silverfish,copper spine silverfish,hoary silverfish and invisible stalker
 * Change skeletons' max health
