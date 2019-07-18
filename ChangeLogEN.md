@@ -22,6 +22,8 @@
    Fear wolf  | You can hardly attack wolf
    Fear creeper  | You can hardly attack creeper
    Fear undead  | You can hardly attack undead mobs
+## Command
+* In developer mode, you can use the `/curse [curse name] [player]` command to set the curse of yourself and others (none is no curse)
 ---
 # B0.6.9 ChangeLog
 ## Effects
