@@ -1,4 +1,28 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.10 ChangeLog
+## Mobs
+* Now witch will curse players when it spawn,you need to kill the witch who cursed you to remove the curse\
+  The curses which the witch can use to players are:
+  
+  Name| Description
+  ------------ | -------------
+   Corrosive skin  | The equipments you are using will drop 2 durability each sec
+   Cannot hold breath  | You cannot stay in water for long time
+   Cannot run  | You cannot run
+   Cannot eat meat  | You cannot eat any meat
+   Cannot eat vegetable  | You cannot eat any vegetable including any plant products
+   Cannot drink  | You cannot drink soup or eat stew
+   Ender hatred  | Enderman will attack you at any time
+   Intellectual decline  | Your crafting speed will be slower(The crafting time is two times of normal)
+   Fear plant  | You will be slow when you crossing plants
+   Armor exclusion  | You cannot wear armors
+   Fear chest  | You cannot open any chests
+   Cannot sleep  | You cannot use the bed
+   Fear spider  | You can hardly attack spider
+   Fear wolf  | You can hardly attack wolf
+   Fear creeper  | You can hardly attack creeper
+   Fear undead  | You can hardly attack undead mobs
+---
 # B0.6.9 ChangeLog
 ## Effects
 * Added _**suffocation**_ effect, which will cause the player to continuously decrease the air value. \
