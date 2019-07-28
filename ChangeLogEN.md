@@ -1,4 +1,28 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.6.11 ChangeLog
+## Block
+* Adjust the hardness of blocks to adjust the durability of the tool
+## Item
+* Make bonemeal cannot make plants grow faster
+* Change the method of item's attack damage calculation and damage to make them consistent with the vanilla MITE
+* Add sword's reach bounce(now it's 1.25 block)
+## Mobs
+* Decrease skeleton's ranged attack speed and its arrow's hitbox
+* Add armors for Ancient Bone Lord
+* Make ghoul's attack can give player 2 sec's slowness and change player's head rotation
+* Make invisible stalker can not pickup loot
+* Decrease the time it takes for shadow attack to cause blindness(now it's 7 sec)
+* Change some mobs' max health
+## Bug Fix
+* Fix the damon spider's attack make player in fire for too long time
+* Fix killing witch cannot remove curse
+## Generating
+* Add spawn for all new mobs
+* Remove natural spawning of witch
+* Decrease the count of natural spawning ores
+* Add underworld mycelium
+* Add underworld bone lord spawner dungeon
+---
 # B0.6.10 ChangeLog
 ## Mobs
 * Now witch will curse players when it spawn,you need to kill the witch who cursed you to remove the curse\
@@ -30,7 +54,7 @@
 * Added _**suffocation**_ effect, which will cause the player to continuously decrease the air value. \
   The higher the level, the faster the air value drops.
 ## Mobs
-* Drowned is faster in water or rainy day,but it is slow in daylight,and it will give player suffocation effect
+* Drowned is faster in water or rainy day,but it is slow in daylight,and it will give player **_suffocation_** effect
 * Vindicator can disarm players when it attacks(10 sec cooldown)
 * Added Vindicator guardian(run faster and causes more damage)
 ---
