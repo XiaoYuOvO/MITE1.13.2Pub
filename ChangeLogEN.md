@@ -1,4 +1,18 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.7.0 ChangeLog
+## Items
+* Remove diamond armors
+* Add all kinds of metal armors
+## Generating
+* Add spawn condition for stronghold, igloo and swamp hut
+## Blocks
+* Tweak some blocks' hardness
+## Entities&Mobs
+* Decrease skeleton's ranged attack speed again...
+* Increase skeleton's melee attack's movement speed
+* Make arrow in ground disappear faster
+* Fix fire element's spawning
+---
 # B0.6.11 ChangeLog
 ## Block
 * Adjust the hardness of blocks to adjust the durability of the tool
