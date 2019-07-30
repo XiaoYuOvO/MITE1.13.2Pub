@@ -1,4 +1,12 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.7.1 更新日志
+## 物品
+* 增加了所有种类的金属工具和金属武器
+* 使剪刀可以剪下树叶,莲叶,藤蔓 和蜘蛛网
+* 为所有工具增加了触及半径加成
+## Bug修复
+* 修复了在F3中显示的天数
+---
 # B0.7.0 更新日志
 ## 物品
 * 移除钻石盔甲

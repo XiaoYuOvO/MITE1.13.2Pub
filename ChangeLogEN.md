@@ -1,4 +1,12 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.7.1 ChangeLog
+## Items
+* Add all kinds of metal tools and metal weapons
+* Make shears can collect leaves,lily pad,vine and web
+* Add reach bounce for all tools
+## Bug Fix
+* Fix the number of days displayed in debug screen
+---
 # B0.7.0 ChangeLog
 ## Items
 * Remove diamond armors
