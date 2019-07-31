@@ -1,4 +1,27 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.7.2 ChangeLog
+## Items
+* Fix shears' name
+* Add all kinds of metal shields
+* Make shields cannot defense all damages and knockback
+* Make shields have cooldown
+* Make shield won't take up too much space on the screen
+#### The properties of shields are shown below
+
+Material|Durability|Cooldown(Sec)| Damage Reduction| Knockback Resistance
+--------|----------|-------------|-----------------|---------------------
+Copper   | 32      |7            | 20%             | 30% 
+Silver   | 32      |7            | 20%             | 30% 
+Rusted Iron   | 16      |7.5            | 10%             | 20% 
+Iron   | 64      |6            | 30%             | 40% 
+Gold   | 48      |6.5            | 25%             | 35% 
+Ancient Metal   | 128      |5            | 40%             | 50% 
+Mithril   | 256     |4            | 50%             | 60% 
+Tungsten   | 512     |3            | 60%             | 70% 
+Adamantium   | 1024     |2            | 70%             | 80% 
+  
+
+---
 # B0.7.1 ChangeLog
 ## Items
 * Add all kinds of metal tools and metal weapons
