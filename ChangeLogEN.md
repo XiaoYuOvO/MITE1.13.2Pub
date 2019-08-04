@@ -1,4 +1,14 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.7.3 ChangeLog
+## Items
+* Add quality for all weapon and armors
+## Rendering
+* Now the crafting GUI will show the tip text for players when player cannot craft item
+## Command
+* Now you can use `/xp query total` to query your total experience
+## Bug Fix
+* Fix some bugs of crafting
+---
 # B0.7.2 ChangeLog
 ## Items
 * Fix shears' name

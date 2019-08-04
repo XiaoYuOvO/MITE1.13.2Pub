@@ -1,4 +1,14 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.7.3 更新日志
+## 物品
+* 为所有的护甲和工具添加了物品等级
+## 渲染
+* 现在合成Gui会显示玩家无法合成物品的原因
+## 命令
+* 现在可以使用 `/xp query total` 来查看你的总经验(作弊模式)
+## Bug 修复
+* 修复了一些合成Bug
+---
 # B0.7.2 更新日志
 ## 物品
 * 修复铁剪刀的名字
