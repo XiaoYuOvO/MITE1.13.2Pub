@@ -1,4 +1,13 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.7.4 ChangeLog
+## Items
+* Add all kinds of arrows
+* Add ancient metal bow and mithril bow
+## Entity
+* Changed longdead's bow and arrow to ancient metal bow and ancient metal arrow
+## Bug Fix
+* Fix that ancient bone lord's armor change to ancient metal chainmail's after summoning longdead
+---
 # B0.7.3 ChangeLog
 ## Items
 * Add quality for all weapon and armors

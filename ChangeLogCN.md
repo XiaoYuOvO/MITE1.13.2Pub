@@ -1,4 +1,13 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.7.4 更新日志
+## 物品
+* 增加了所有种类的箭
+* 增加了远古金属弓和秘银弓
+## 实体
+* 把古尸的箭改为远古金属箭,弓改为远古金属弓
+## Bug修复
+* 修复了远古骷髅领主的装备在召唤完古尸后变为远古金属锁链套的Bug
+---
 # B0.7.3 更新日志
 ## 物品
 * 为所有的护甲和工具添加了物品等级
