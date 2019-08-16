@@ -1,4 +1,8 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.7.5 更新日志
+## 物品
+* 增加了所有种类的金属钓竿
+---
 # B0.7.4 更新日志
 ## 物品
 * 增加了所有种类的箭

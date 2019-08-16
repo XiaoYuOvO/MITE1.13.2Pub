@@ -1,4 +1,8 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.7.5 ChangeLog
+## Items
+* Add all kinds of metal fishing rods
+---
 # B0.7.4 ChangeLog
 ## Items
 * Add all kinds of arrows
