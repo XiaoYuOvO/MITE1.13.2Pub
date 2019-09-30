@@ -1,4 +1,20 @@
 [English Version](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogEN.md)
+# B0.8.1 更新日志
+## 游戏机制
+* 增加了食物营养值系统
+## 物品
+* 为所有食物增加了营养值
+* 为红蘑菇增加了药水效果
+* 使鸡蛋可以直接食用,按住CTRL再使用以扔出
+## 命令
+* 增加命令`/nutrition`\
+  用法: `/nutrition (add|set) <目标> (phytonutrients|protein) <数值>`
+## 渲染
+* 让不在开发者模式的玩家无法看到物品扩展信息
+## 其他
+* 增加了颜色 _橙色_~~(实际上是肉色)~~,颜色代码为`g`
+* 使服务器可以同时容纳离线玩家和在线玩家
+---
 # B0.7.7 更新日志
 ## 物品
 * 为桶添加了捞起源头和放置源头的描述

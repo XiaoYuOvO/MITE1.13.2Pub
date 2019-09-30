@@ -1,4 +1,20 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.1 ChangeLog
+## Game mechanism
+* Add food nutrition
+## Item
+* Add nutrition values for all the foods
+* Add potion effects for red mushroom
+* Make eggs can eat directly,and press CTRL and use to throw out
+## Command
+* Add command `/nutrition`\
+   usage:   `/nutrition (add|set) <target(s)> (phytonutrients|protein) <value>`
+## Render
+* Make player cannot see advanced item stack info without development mode
+## Others
+* Add color _Orange_(a bit yellower than normal orange),code of it is `g`
+* Make server can contain offline players and online players
+---
 # B0.7.7 ChangeLog
 ## Items
 * Add placing source and picking up source describes of bucket
