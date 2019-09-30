@@ -12,9 +12,12 @@
 ## Render
 * Make player cannot see advanced item stack info without development mode
 ## Others
+* add recipes for all weapons and tools and armors
+* Modified some recipes' crafting tier
 * Add color _Orange_(a bit yellower than normal orange),code of it is `g`
 * Make server can contain offline players and online players
 ## Bug Fix
+* Fix server console to be able send command
 * Fix sometimes falling anvil causes crash
 ---
 # B0.7.7 ChangeLog
