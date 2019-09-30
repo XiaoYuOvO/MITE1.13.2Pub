@@ -14,6 +14,8 @@
 ## Others
 * Add color _Orange_(a bit yellower than normal orange),code of it is `g`
 * Make server can contain offline players and online players
+## Bug Fix
+* Fix sometimes falling anvil causes crash
 ---
 # B0.7.7 ChangeLog
 ## Items
