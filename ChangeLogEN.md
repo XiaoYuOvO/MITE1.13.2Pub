@@ -1,4 +1,25 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.2 ChangeLog
+## Items
+* Add manure and animal can make manure
+## Blocks
+* Make dead bush drop less sticks
+* Make leaves drop more sticks
+## Mobs
+* Make horse drops beef and leather
+## Mob spawns
+* Make mobs appear more on the first day
+## Game mechanism
+* Make player cannot place block or attack others or craft item when it has no food level
+* Add food insulin response
+* Make players' saturation level less when players spawn
+* Players only have 80% attack damage when they are in water
+## Bug Fix
+* Fix crafting table can copy item
+## Others
+* Make server op can use server commands
+* Make the client and server must be the correct version to each other in order to establish a connection
+---
 # B0.8.1 ChangeLog
 ## Game mechanism
 * Add food nutrition
