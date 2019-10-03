@@ -1,4 +1,25 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.3 ChangeLog
+## Game mechanism
+* Make creative mode players can place block, hit entity and craft item when them haven't food value
+* Decreased the value of having insulin response
+## Blocks
+* Make plants' growth speed similar as the vanilla MITE
+* Increased the chance of dropping seed from grass
+## Mobs
+* Make wight can steal less players' exp 
+## Bug Fix
+* Fix salad bowl will disappear when eat it with a stack of salad
+* Fix tungsten chainmail armors' durability
+* Fix `/nutrition` command occur error in server
+* Fix player cannot eat food in server
+* Fix sometimes animal manure cannot pickup
+## Others
+* Make player can use password to enter server to prevent others steal their things
+## Command
+* Players in server can use command `/password reset <old_password> <new_password>` to reset your password
+* Server side can use command `/passwoed reload` to reload passwords
+---
 # B0.8.2 ChangeLog
 ## Items
 * Add manure and animal can make manure
