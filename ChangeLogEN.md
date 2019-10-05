@@ -1,4 +1,24 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.4 ChangeLog
+## Blocks
+* Make tips for fuels that cannot be burn in a furnace
+## Mobs
+* Make llamas,polar bears and wolfs wont attack players when other animals besides them attacked by player
+* Make squids will attack players
+* Reduce the speed of animals producing manure
+## Game mechanism
+* Make the IR value bigger to get the IR effect
+* Decreased the speed of players being hungry
+* Decreased the range of checking mobs around players when players try to sleep
+## Bug Fix
+* Fix sometimes furnace can smelt items with the incorrect fuels
+* Fix glow earth elemental's textures
+* Fix flint hatch's handing model
+* Fix cannot break chest by hand
+* Fix portals cannot get to the correct place
+## Others
+* Modified the text of cannot sleep
+---
 # B0.8.3 ChangeLog
 ## Game mechanism
 * Make creative mode players can place block, hit entity and craft item when them haven't food value
