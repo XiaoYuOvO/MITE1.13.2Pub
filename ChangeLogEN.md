@@ -1,4 +1,22 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.5 ChangeLog
+## Blocks
+* Make wooden blocks can be destroyed by hand
+## Game mechanism
+* Make furnace can craft 4 bricks once
+* Add the experience of cooking meat
+## Mob Spawning
+* Increased mobs spawning amount 
+## Mobs
+* Make animals can eat foods on ground
+* Make zombies and other mobs wont attack direwolf
+## Items
+* Add water bowl,milk bowl,cheese,flour,dough and chocolate
+* Completed item stack limits
+## Bug Fix
+* Fix cannot use crafting table on server
+* Fix launch problem
+---
 # B0.8.4 ChangeLog
 ## Blocks
 * Make tips for fuels that cannot be burn in a furnace
