@@ -1,4 +1,28 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.7 ChangeLog
+## Items
+* Add Cereal,Pumpkin Soup,Cream of Mushroom Soup,Vegetable Soup ,Cream of Vegetable Soup, Chicken Soup and Beef Stew
+* Add recipes for flint knife
+* Tweaked axe's durability calculation
+* Eggs need to sneak to throw out now
+## Others
+* Add zoom key default is `z`
+* Make sprint key is _Keep Sprinting_
+* Make players can open lan game on a given port
+## Anti-Cheat
+* Make players cannot get blocks and entities info through Debug keys
+## Commands
+* Make `/op` and `/deop` command can only be invoked by server
+* Make operators on server can use cheat commands
+## World Generating
+* Increased the height of ores in Mountain biomes
+## Bug Fix
+* Fix bowl cannot pickup water
+---
+
+##  _Merged B0.8.6 to B0.8.7_
+
+---
 # B0.8.5 ChangeLog
 ## Blocks
 * Make wooden blocks can be destroyed by hand
