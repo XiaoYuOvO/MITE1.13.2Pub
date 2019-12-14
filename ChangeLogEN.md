@@ -1,4 +1,17 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.8 ChangeLog
+## Items
+* Add blueberry,porridge,sorbet,mashed potato,ice cream,orange,banana,worm and cooked worm\
+_(All the foods in vanilla MITE are added now)_
+* Worm can eat meat and leaves in chest and it can also eat meat in players' inventories
+## Blocks
+* You can get some worms through mining some grass block 
+* Break oak leaves in jungle biomes can get orange and break jungle leaves can get bananas
+* Add blueberry bush,you can find it in forest biomes and jungle biomes
+* Blueberry bush only can place in jungle or forest biomes and it must can see sky
+## Others
+* Some little updates
+---
 # B0.8.7 ChangeLog
 ## Items
 * Add Cereal,Pumpkin Soup,Cream of Mushroom Soup,Vegetable Soup ,Cream of Vegetable Soup, Chicken Soup and Beef Stew
