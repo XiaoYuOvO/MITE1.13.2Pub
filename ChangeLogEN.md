@@ -1,4 +1,16 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.9 ChangeLog
+## Blocks
+* Add dead crops and blighted crops
+* Crops will be dead or blighted if the place of plant to grow on is too dark or is dry or its temperature is too low or too high
+* Now you can use manure on farmland to increase the growing speed of the plant that grow on it
+* You can use bonemeal to heal the blighted plants
+## Game mechanism
+* Modify the mechanism of plant growing to make it as same as vanilla MITE
+## Bug fix
+* Fix that can place blueberry on some strange place
+* Fix camera shake when attack a mob during sprinting
+---
 # B0.8.8 ChangeLog
 ## Items
 * Add blueberry,porridge,sorbet,mashed potato,ice cream,orange,banana,worm and cooked worm\
