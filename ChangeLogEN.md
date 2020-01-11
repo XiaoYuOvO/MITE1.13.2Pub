@@ -1,4 +1,13 @@
 [中文版](https://github.com/XiaoYuOvO/MITE1.13.2Pub/blob/master/ChangeLogCN.md)
+# B0.8.10 ChangeLog
+## Entities
+* Make livestock can be sick and need food(grass),water and enough space\
+  (Animals that are sick will drop _**nothing**_ when them die)
+## Game mechanism
+* Make player can only sleep indoors
+## Others
+* Add debug info of world generating
+---
 # B0.8.9 ChangeLog
 ## Blocks
 * Add dead crops and blighted crops
